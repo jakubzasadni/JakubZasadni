@@ -1,5 +1,5 @@
 <h1 align="center"> Jakub Zasadni</h1>
-<h3 align="center">Automatics and Robotics student at University of Science and Technology in Cracow</h3>
+<h2 align="center">Automatics and Robotics student at University of Science and Technology in Cracow</h3>
 
 - 📫 Email: **kubazasadni23@gmail.com**
 
