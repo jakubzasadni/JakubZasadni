@@ -24,5 +24,7 @@
 ###
 
 
+![Snake animation](https://github.com/jakubzasadni/jakubzasadni/blob/output/snake.svg)
+
 ###
 
