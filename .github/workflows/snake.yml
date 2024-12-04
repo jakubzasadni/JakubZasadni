@@ -21,10 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mv dist/snake.svg ./snake.svg
+          cp dist/snake.svg ./snake.svg  # Zamiast mv
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add snake.svg
           git commit -m "Update Snake animation" || echo "No changes to commit"
           git push
-
