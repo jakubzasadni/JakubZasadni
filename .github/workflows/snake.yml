@@ -16,6 +16,13 @@ jobs:
         with:
           github_user_name: JakubZasadni
           outputs: dist/snake.svg
+          
+      - name: Set up GitHub Actions auth
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git fetch
+          git checkout main
 
       - name: Upload animation to repository
         run: |
