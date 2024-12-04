@@ -24,6 +24,6 @@
 ###
 
 
-![Snake animation](https://github.com/jakubzasadni/jakubzasadni/blob/output/snake.svg)
+![Snake animation](https://github.com/JakubZasadni/JakubZasadni/blob/main/.github/workflows/snake.yml))
 
 
