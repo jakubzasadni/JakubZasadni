@@ -1,5 +1,5 @@
 <h1 align="center"> Jakub Zasadni</h1>
-<h2 align="center">Automatic Control and Robotics and Robotics student at University of Science and Technology in Cracow</h3>
+<h2 align="center">Automatic Control and Robotics student at University of Science and Technology in Cracow</h3>
 <p align="center"> <a href="https://www.agh.edu.pl/" target="_blank" rel="noreferrer"> <img src="https://github.com/JakubZasadni/JakubZasadni/blob/main/Znak_graficzny_AGH.svg.png" alt="c" width="150" height="150"/> 
 <p align="left"> 📫 Email: kubazasadni23@gmail.com</h3>
 
